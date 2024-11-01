@@ -18,7 +18,7 @@ The following sections provide information on:
 - [React icon npm package](#React-icon-npm-package) : Details about sourcing icons using the `react-icons` library.
 - [Other related resources](#Other-related-resources) : Links and descriptions of additional websites and extensions referenced in the video.
 
-**You can also find a tech demo video I made by clicking [the link here](https://drive.google.com/file/d/1SJhMH9YJhnocJrUk-7rrFfuU-64vGOv8/view?usp=sharing).**
+**You can find the tech demo video I made by clicking [the link here](https://drive.google.com/file/d/1SJhMH9YJhnocJrUk-7rrFfuU-64vGOv8/view?usp=sharing).**
 
 ---
 
